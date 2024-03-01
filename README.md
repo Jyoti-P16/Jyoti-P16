@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=1800)]
+[![MasterHead](https://i.pinimg.com/736x/80/8b/e9/808be977df1a1c263f46c6b9ec8462dd.jpg)]
 <h1 align="center">Hi 👋, I'm Jyotirmayee</h1>
 <h3 align="center">A passionate coder from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
